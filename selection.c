@@ -33,7 +33,8 @@ int main(){
     // moltiplicazione
     break;
     default:
-    // gestisci eccezzione
+    // gestisci eccezione
    }
+
 }
 
